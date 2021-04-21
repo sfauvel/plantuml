@@ -1,0 +1,4 @@
+:nofooter:
+= Scale height doc test
+
+include::ScaleHeightDocTest.testScale2.approved.adoc[leveloffset=+1]

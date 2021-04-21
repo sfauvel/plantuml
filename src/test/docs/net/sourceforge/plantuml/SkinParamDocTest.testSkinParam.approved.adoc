@@ -1,0 +1,88 @@
+[#net_sourceforge_plantuml_SkinParamDocTest_testSkinParam]
+= TestSkinParam
+
+
+
+*umlDiagramType*:SEQUENCE
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:STATE
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:CLASS
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:OBJECT
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:ACTIVITY
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:DESCRIPTION
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:COMPOSITE
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:FLOW
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:TIMING
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:BPM
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:NWDIAG
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:MINDMAP
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:WBS
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:WIRE
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:HELP
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:GANTT
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:SALT
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:JSON
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:GIT
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:BOARD
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]
+
+*umlDiagramType*:YAML
+
+*Is null for* : [sequenceActorBorder, sequenceDividerBorder, sequenceLifeLineBorder, sequenceParticipantBorder, noteBorder, sequenceGroupBorder, sequenceReferenceBorder, legendBorder, sequenceArrow, arrow, classBorder, objectBorder, usecaseBorder, partitionBorder, packageBorder, swimlaneBorder, activityBorder, titleBorder, diagramBorder, rectangleBorder, hexagonBorder, personBorder, archimateBorder, componentBorder, cardBorder, queueBorder, agentBorder, domainBorder, designedDomainBorder, machineBorder, requirementBorder]

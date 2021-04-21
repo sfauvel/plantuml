@@ -1,0 +1,21 @@
+[#net_sourceforge_plantuml_ScaleHeightDocTest_testScale2]
+= Managing scaling diagrams
+
+Scale height scales only on height.
+
+
+[source,java,indent=0]
+----
+		final ScaleHeight cut = new ScaleHeight(100);
+		final double scale = cut.getScale(width, height);
+
+----
+
+[%autowidth]
+[%header]
+|====
+| width | height | vertical scale
+| 50 | 50 | 2.000000
+| 50 | 80 | 1.250000
+| 80 | 50 | 2.000000
+|====

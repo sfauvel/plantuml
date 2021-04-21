@@ -72,6 +72,12 @@
 	
     <dependencies>
         <dependency>
+            <groupId>org.sfvl</groupId>
+            <artifactId>documentationtesting</artifactId>
+            <version>1.1.1</version>
+            <scope>test</scope>
+        </dependency>
+        <dependency>
             <groupId>org.apache.ant</groupId>
             <artifactId>ant</artifactId>
             <version>1.10.9</version>
@@ -139,11 +145,11 @@
     </developers>
 
     <build>
-        <sourceDirectory>${project.basedir}/src</sourceDirectory>
-        <testSourceDirectory>${project.basedir}/test</testSourceDirectory>
+<!--        <sourceDirectory>${project.basedir}/src</sourceDirectory>-->
+<!--        <testSourceDirectory>${project.basedir}/test</testSourceDirectory>-->
         <resources>
             <resource>
-                <directory>${project.basedir}/src</directory>
+                <directory>${project.basedir}/src/java</directory>
                 <includes>
                     <include>net/sourceforge/plantuml/version/*.png</include>
                     <include>net/sourceforge/plantuml/openiconic/data/*.txt</include>
@@ -170,8 +176,8 @@
                 <artifactId>maven-compiler-plugin</artifactId>
                 <version>2.3.2</version>
                 <configuration>
-                    <source>1.7</source>
-                    <target>1.7</target>
+                    <source>1.8</source>
+                    <target>1.8</target>
                     <debug>true</debug>
                 </configuration>
             </plugin>
@@ -224,7 +230,7 @@
             </plugin>
 			<plugin>
 				<artifactId>maven-surefire-plugin</artifactId>
-				<version>3.0.0-M5</version>
+				<version>3.0.0-M4</version>
 				<configuration>
 					<environmentVariables>
 						<PLANTUML_SECURITY_PROFILE>UNSECURE</PLANTUML_SECURITY_PROFILE>

@@ -1,0 +1,4 @@
+:nofooter:
+= Skin param doc test
+
+include::SkinParamDocTest.testSkinParam.approved.adoc[leveloffset=+1]
